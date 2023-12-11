@@ -1,0 +1,3 @@
+f=open("abcd.txt","w")
+list=["sunnu","bunny"]
+f.writelines(list)
