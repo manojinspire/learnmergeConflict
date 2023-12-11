@@ -1,6 +1,5 @@
 def minimum(s,e,count,mini) :
-    
-    if len(s)==0 and len(e)==0:
+        if len(s)==0 and len(e)==0:
         return count
     
     while(len(s)!=0):
@@ -36,7 +35,7 @@ e=[]
 for i in range(n):
     x=int(input())
     s.append(x)
-
+hiiammanouarj
 print(minimum(s,e,0,1))
 
 
