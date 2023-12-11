@@ -36,7 +36,7 @@ e=[]
 for i in range(n):
     x=int(input())
     s.append(x)
-
+hiiamanil`
 print(minimum(s,e,0,1))
 
 
